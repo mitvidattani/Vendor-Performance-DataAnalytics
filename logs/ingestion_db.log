@@ -1,0 +1,21 @@
+2025-12-25 00:42:58,229 - INFO - Ingesting data\begin_inventory.csv in db
+2025-12-25 00:42:59,455 - INFO - Ingesting data\end_inventory.csv in db
+2025-12-25 00:43:00,674 - INFO - Ingesting data\purchase_prices.csv in db
+2025-12-25 00:43:04,191 - INFO - Ingesting data\purchases.csv in db
+2025-12-25 00:43:49,616 - INFO - Ingesting data\sales.csv in db
+2025-12-25 00:50:01,339 - INFO - Ingesting data\vendor_invoice.csv in db
+2025-12-25 00:50:01,663 - INFO - Ingestion Complete
+2025-12-25 00:50:01,663 - INFO - Total Ingestion time: 7.0607294797897335 minutes
+2025-12-25 00:51:55,290 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-25 00:51:56,590 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-25 00:51:57,869 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-25 00:52:01,543 - INFO - Ingesting data\purchases.csv into db
+2025-12-25 00:53:55,606 - INFO - Ingesting data\sales.csv into db
+2025-12-25 01:04:42,449 - INFO - Ingesting data\vendor_invoice.csv into db
+2025-12-25 01:04:42,805 - INFO - Ingestion Complete
+2025-12-25 01:04:42,805 - INFO - Total Ingestion time: 12.795101126035055 minutes
+2025-12-25 22:36:45,515 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-25 22:36:47,713 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-25 22:36:50,096 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-25 22:36:55,118 - INFO - Ingesting data\purchases.csv into db
+2025-12-25 22:37:56,629 - INFO - Ingesting data\sales.csv into db
