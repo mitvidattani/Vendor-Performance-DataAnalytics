@@ -27,3 +27,85 @@
 2025-12-28 17:44:24,736 - INFO - Ingesting data\vendor_invoice.csv into db
 2025-12-28 17:44:24,819 - INFO - Ingestion Complete
 2025-12-28 17:44:24,819 - INFO - Total Ingestion time: 3.520094132423401 minutes
+2025-12-30 20:39:41,405 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-30 20:39:42,913 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-30 20:39:44,279 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-30 20:39:47,951 - INFO - Ingesting data\purchases.csv into db
+2025-12-30 20:40:33,954 - INFO - Ingesting data\sales.csv into db
+2025-12-30 20:44:01,455 - INFO - Ingesting data\vendor_invoice.csv into db
+2025-12-30 20:44:01,592 - INFO - Ingestion Complete
+2025-12-30 20:44:01,592 - INFO - Total Ingestion time: 4.339740665753682 minutes
+2025-12-30 20:44:01,626 - INFO - Creatinng Vendor Summary Table ......
+2025-12-30 20:54:20,445 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-30 20:54:21,840 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-30 20:54:23,262 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-30 20:54:27,146 - INFO - Ingesting data\purchases.csv into db
+2025-12-30 20:55:21,173 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-30 20:55:22,490 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-30 20:55:23,736 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-30 20:55:27,750 - INFO - Ingesting data\purchases.csv into db
+2025-12-30 20:56:31,106 - INFO - Ingesting data\sales.csv into db
+2025-12-30 20:57:23,912 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-30 20:57:25,545 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-30 20:57:26,989 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-30 20:57:30,738 - INFO - Ingesting data\purchases.csv into db
+2025-12-30 20:58:33,100 - INFO - Ingesting data\sales.csv into db
+2025-12-31 00:22:56,295 - INFO - Ingesting begin_inventory.csv into db
+2025-12-31 00:22:57,678 - INFO - Ingesting end_inventory.csv into db
+2025-12-31 00:22:58,869 - INFO - Ingesting purchase_prices.csv into db
+2025-12-31 00:23:03,145 - INFO - Ingesting purchases.csv into db
+2025-12-31 00:23:48,294 - INFO - Ingesting sales.csv into db
+2025-12-31 00:26:03,542 - INFO - Ingesting begin_inventory.csv into db
+2025-12-31 00:26:04,955 - INFO - Ingesting end_inventory.csv into db
+2025-12-31 00:26:06,290 - INFO - Ingesting purchase_prices.csv into db
+2025-12-31 00:26:10,543 - INFO - Ingesting purchases.csv into db
+2025-12-31 00:27:18,949 - INFO - Ingesting sales.csv into db
+2025-12-31 00:32:58,665 - INFO - Ingesting begin_inventory.csv into db
+2025-12-31 00:33:00,424 - INFO - Ingesting end_inventory.csv into db
+2025-12-31 00:33:02,054 - INFO - Ingesting purchase_prices.csv into db
+2025-12-31 00:33:07,961 - INFO - Ingesting purchases.csv into db
+2025-12-31 00:37:54,046 - INFO - Ingesting begin_inventory.csv into db
+2025-12-31 00:38:34,315 - INFO - Ingesting begin_inventory.csv into db
+2025-12-31 00:47:46,592 - INFO - Ingesting begin_inventory.csv into db
+2025-12-31 00:53:33,174 - INFO - Ingesting begin_inventory.csv into db
+2025-12-31 01:00:17,493 - INFO - Ingesting begin_inventory.csv into db
+2025-12-31 01:22:19,220 - INFO - Ingesting begin_inventory.csv into db
+2025-12-31 01:38:58,280 - INFO - Ingesting begin_inventory.csv -> begin_inventory
+2025-12-31 01:38:59,455 - INFO - Table `begin_inventory` ingested successfully
+2025-12-31 01:38:59,676 - INFO - Ingesting end_inventory.csv -> end_inventory
+2025-12-31 01:39:00,856 - INFO - Table `end_inventory` ingested successfully
+2025-12-31 01:39:00,874 - INFO - Ingesting purchase_prices.csv -> purchase_prices
+2025-12-31 01:39:00,931 - INFO - Table `purchase_prices` ingested successfully
+2025-12-31 01:39:04,179 - INFO - Ingesting purchases.csv -> purchases
+2025-12-31 01:39:22,858 - INFO - Table `purchases` ingested successfully
+2025-12-31 01:39:35,089 - INFO - Ingesting sales.csv -> sales
+2025-12-31 01:42:12,450 - INFO - Table `sales` ingested successfully
+2025-12-31 01:42:13,303 - INFO - Ingesting vendor_invoice.csv -> vendor_invoice
+2025-12-31 01:42:13,381 - INFO - Table `vendor_invoice` ingested successfully
+2025-12-31 01:42:13,381 - INFO - Ingestion completed in 3.25 minutes
+2025-12-31 01:48:14,921 - INFO - Ingesting begin_inventory.csv -> begin_inventory
+2025-12-31 01:48:15,974 - INFO - Table `begin_inventory` ingested successfully
+2025-12-31 01:48:16,164 - INFO - Ingesting end_inventory.csv -> end_inventory
+2025-12-31 01:48:17,299 - INFO - Table `end_inventory` ingested successfully
+2025-12-31 01:48:17,316 - INFO - Ingesting purchase_prices.csv -> purchase_prices
+2025-12-31 01:48:17,389 - INFO - Table `purchase_prices` ingested successfully
+2025-12-31 01:48:20,151 - INFO - Ingesting purchases.csv -> purchases
+2025-12-31 01:48:40,281 - INFO - Table `purchases` ingested successfully
+2025-12-31 01:48:51,731 - INFO - Ingesting sales.csv -> sales
+2025-12-31 01:51:30,123 - INFO - Table `sales` ingested successfully
+2025-12-31 01:51:31,275 - INFO - Ingesting vendor_invoice.csv -> vendor_invoice
+2025-12-31 01:51:31,403 - INFO - Table `vendor_invoice` ingested successfully
+2025-12-31 01:51:31,404 - INFO - Ingestion completed in 3.28 minutes
+2025-12-31 01:56:51,496 - INFO - Ingesting begin_inventory.csv -> begin_inventory
+2025-12-31 01:56:52,627 - INFO - Table `begin_inventory` ingested successfully
+2025-12-31 01:56:52,872 - INFO - Ingesting end_inventory.csv -> end_inventory
+2025-12-31 01:56:56,066 - INFO - Table `end_inventory` ingested successfully
+2025-12-31 01:56:56,117 - INFO - Ingesting purchase_prices.csv -> purchase_prices
+2025-12-31 01:56:56,375 - INFO - Table `purchase_prices` ingested successfully
+2025-12-31 01:57:06,471 - INFO - Ingesting purchases.csv -> purchases
+2025-12-31 01:57:38,653 - INFO - Table `purchases` ingested successfully
+2025-12-31 01:57:49,941 - INFO - Ingesting sales.csv -> sales
+2025-12-31 02:00:35,085 - INFO - Table `sales` ingested successfully
+2025-12-31 02:00:36,393 - INFO - Ingesting vendor_invoice.csv -> vendor_invoice
+2025-12-31 02:00:36,479 - INFO - Table `vendor_invoice` ingested successfully
+2025-12-31 02:00:36,480 - INFO - Ingestion completed in 3.75 minutes

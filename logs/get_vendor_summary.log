@@ -1,0 +1,67 @@
+2025-12-30 21:04:25,341 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-30 21:04:26,998 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-30 21:04:28,418 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-30 21:04:32,598 - INFO - Ingesting data\purchases.csv into db
+2025-12-30 21:06:11,571 - INFO - Ingesting data\sales.csv into db
+2025-12-30 21:07:10,402 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-30 21:07:11,928 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-30 21:07:13,405 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-30 21:07:17,265 - INFO - Ingesting data\purchases.csv into db
+2025-12-30 21:08:21,300 - INFO - Ingesting data\sales.csv into db
+2025-12-30 21:09:08,171 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-30 21:09:09,510 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-30 21:09:11,004 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-30 21:09:14,916 - INFO - Ingesting data\purchases.csv into db
+2025-12-30 21:13:31,551 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-30 21:13:32,904 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-30 21:13:34,269 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-30 21:13:37,862 - INFO - Ingesting data\purchases.csv into db
+2025-12-30 21:19:23,158 - INFO - Ingesting data\begin_inventory.csv into db
+2025-12-30 21:19:24,806 - INFO - Ingesting data\end_inventory.csv into db
+2025-12-30 21:19:26,384 - INFO - Ingesting data\purchase_prices.csv into db
+2025-12-30 21:19:32,171 - INFO - Ingesting data\purchases.csv into db
+2025-12-30 21:23:25,459 - INFO - Creatinng Vendor Summary Table ......
+2025-12-30 21:23:25,477 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, ActualPrice, PurchasePrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost]
+Index: []
+2025-12-30 21:23:25,485 - INFO - Cleaning data and adding derived metrics ......
+2025-12-30 21:23:25,489 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, ActualPrice, PurchasePrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost, GrossProfit, ProfitMargin, StockTurnover, SalestoPurchaseRatio]
+Index: []
+2025-12-30 21:23:25,513 - INFO - Vendor sales summary ingested back into the database successfully.
+2025-12-31 00:06:03,305 - INFO - Creatinng Vendor Summary Table ......
+2025-12-31 00:06:03,311 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, ActualPrice, PurchasePrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost]
+Index: []
+2025-12-31 00:06:03,314 - INFO - Cleaning data and adding derived metrics ......
+2025-12-31 00:06:03,321 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, ActualPrice, PurchasePrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost, GrossProfit, ProfitMargin, StockTurnover, SalestoPurchaseRatio]
+Index: []
+2025-12-31 00:06:03,334 - INFO - Vendor sales summary ingested back into the database successfully.
+2025-12-31 00:07:34,584 - INFO - Creatinng Vendor Summary Table ......
+2025-12-31 00:07:34,586 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, ActualPrice, PurchasePrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost]
+Index: []
+2025-12-31 00:07:34,587 - INFO - Cleaning data and adding derived metrics ......
+2025-12-31 00:07:34,589 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, ActualPrice, PurchasePrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost, GrossProfit, ProfitMargin, StockTurnover, SalestoPurchaseRatio]
+Index: []
+2025-12-31 00:07:34,614 - INFO - Vendor sales summary ingested back into the database successfully.
+2025-12-31 00:33:52,905 - INFO - Creatinng Vendor Summary Table ......
+2025-12-31 01:43:08,739 - INFO - Creating vendor sales summary...
+2025-12-31 01:43:23,950 - INFO -    VendorNumber                   VendorName  Brand              Description  ...  TotalSalesDollars  TotalSalesPrice TotalExciseTax  FreightCost
+0          1128  BROWN-FORMAN CORP             1233  Jack Daniels No 7 Black  ...         5101919.51        672819.31      260999.20     68601.68
+1          4425        MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka  ...         4819073.49        561512.37      294438.66    144929.24
+2         17035  PERNOD RICARD USA             8068         Absolut 80 Proof  ...         4538120.60        461140.15      343854.07    123780.22
+3          3960  DIAGEO NORTH AMERICA INC      4261   Capt Morgan Spiced Rum  ...         4475972.88        420050.01      368242.80    257032.07
+4          3960  DIAGEO NORTH AMERICA INC      3545          Ketel One Vodka  ...         4223107.62        545778.28      249587.83    257032.07
+
+[5 rows x 14 columns]
+2025-12-31 01:43:23,975 - INFO - Cleaning & enriching data...
+2025-12-31 01:43:24,092 - INFO - Table `vendor_sales_summary` ingested successfully
+2025-12-31 01:43:24,092 - INFO - vendor_sales_summary table created successfully
+2025-12-31 01:52:12,645 - INFO - Table `vendor_sales_summary` ingested successfully
+2025-12-31 02:02:15,733 - INFO - Creating Vendor Summary Table...
+2025-12-31 02:02:31,070 - INFO - Cleaning data and adding derived metrics...
+2025-12-31 02:02:31,246 - INFO - Table `vendor_sales_summary` ingested successfully
+2025-12-31 02:02:31,246 - INFO - Vendor sales summary ingested successfully
