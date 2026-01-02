@@ -109,3 +109,16 @@
 2025-12-31 02:00:36,393 - INFO - Ingesting vendor_invoice.csv -> vendor_invoice
 2025-12-31 02:00:36,479 - INFO - Table `vendor_invoice` ingested successfully
 2025-12-31 02:00:36,480 - INFO - Ingestion completed in 3.75 minutes
+2026-01-02 15:08:58,068 - INFO - Ingesting begin_inventory.csv -> begin_inventory
+2026-01-02 15:08:59,130 - INFO - Table `begin_inventory` ingested successfully
+2026-01-02 15:08:59,340 - INFO - Ingesting end_inventory.csv -> end_inventory
+2026-01-02 15:09:00,796 - INFO - Table `end_inventory` ingested successfully
+2026-01-02 15:09:00,826 - INFO - Ingesting purchase_prices.csv -> purchase_prices
+2026-01-02 15:09:00,906 - INFO - Table `purchase_prices` ingested successfully
+2026-01-02 15:09:04,074 - INFO - Ingesting purchases.csv -> purchases
+2026-01-02 15:09:35,552 - INFO - Table `purchases` ingested successfully
+2026-01-02 15:09:47,716 - INFO - Ingesting sales.csv -> sales
+2026-01-02 15:14:13,302 - INFO - Table `sales` ingested successfully
+2026-01-02 15:14:14,384 - INFO - Ingesting vendor_invoice.csv -> vendor_invoice
+2026-01-02 15:14:14,491 - INFO - Table `vendor_invoice` ingested successfully
+2026-01-02 15:14:14,493 - INFO - Ingestion completed in 5.28 minutes

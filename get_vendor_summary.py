@@ -125,12 +125,5 @@ if __name__ == "__main__":
     ingest_db(clean_df, "vendor_sales_summary")
     logging.info("Vendor sales summary ingested successfully")
 
-    sample_df = pd.read_sql_query(
-        "SELECT * FROM vendor_sales_summary LIMIT 5;",
-        conn
-    )
-    print("\n--- Vendor Summary (Read Back From DB) ---")
-    print(sample_df)
-
     conn.close()
 # Ingestion complete
